@@ -1,2 +1,3 @@
-# tutorial_netmiko
-This are the scripts for the netmiko training
+# tutorial python basics with Netmiko
+
+This is the tutorial for an introduction to python and Netmiko.
